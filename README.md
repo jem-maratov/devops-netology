@@ -10,3 +10,5 @@ Files that will be ignored:
 4. All files that have .tfvars suffix.
 5. All files with names override.tf, override.tf.json. Also files that contain _override.tf, _override.tf.json in their names.
 6. All .terraformrc and terraform.rc files.
+
+Changing README.md 
